@@ -1,0 +1,1 @@
+worker: python Cipher_Bot.py
